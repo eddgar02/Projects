@@ -1,6 +1,5 @@
 /* 
  * Name: Edgar Lara Sanchez
- * NetID: exl190014
  * @param <T>
  */
 public class LinkList<T> {
