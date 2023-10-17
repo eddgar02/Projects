@@ -2,12 +2,6 @@
 import java.io.*;
 import java.util.*;
 
-/*
-
- Edgar Lara Sanchez
-NetID: exl190014
-
- */
 public class IntegralCalculator {
 
     /**
