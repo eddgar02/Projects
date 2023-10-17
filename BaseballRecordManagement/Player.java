@@ -1,7 +1,6 @@
 
 /* 
- * Name: Edgar Lara Sanchez
- * NetID: exl190014
+
  */
 
 public class Player {
