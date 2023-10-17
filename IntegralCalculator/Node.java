@@ -1,6 +1,5 @@
 /*
  Edgar Lara Sanchez
-NetID: exl190014
  */
 public class Node<T extends Comparable<T>> implements Comparable<Node<T>> {
 
