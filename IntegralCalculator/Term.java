@@ -1,6 +1,5 @@
 /*
  Edgar Lara Sanchez
-NetID: exl190014
  */
 public class Term implements Comparable<Term>{
 
